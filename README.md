@@ -6,14 +6,8 @@ Track Name: IBM Data Scence
 
 Group Members & Assigned Tasks:
 
-  Ahmed Magdy Ahmed (Leader)
-    Data Collection
-    ML-Flow
+Ahmed Magdy Ahmed (Leader) - [Data Collection, ML-Flow]
     
-  Khaled Tarek Mohamed
-    Data Exploration
-    Data Analysis
-    Data Visualization
+Khaled Tarek Mohamed - [Data Exploration - Data Analysis - Data Visualization]
     
-  Modather Abdelmohsen Abdelmawgood
-    Data Prediction
+Modather Abdelmohsen Abdelmawgood - [Data Prediction]
